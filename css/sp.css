@@ -1,0 +1,37 @@
+.content-sp {
+  width: 1170px;
+  margin-top: 50px;
+}
+
+.sp-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.content-sp h2 {
+  margin-bottom: 40px;
+}
+
+.sp-text p {
+  width: 400px;
+  line-height: 30px;
+  margin-top: 20px;
+  text-align: justify;
+  margin-bottom: 40px;
+}
+
+.btn-sp {
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.btn-sp:first-child {
+  background-color: #FF0000;
+  margin-right: 8px;
+}
+
+.btn-sp:last-child {
+  background-color: #3366FF;
+}

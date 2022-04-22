@@ -1,0 +1,32 @@
+.gt-logo {
+  text-align: center;
+}
+
+.logo-gt {
+  width: 200px;
+  align-items: center
+}
+
+.text-gt {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.content-gt {
+  max-width: 700px;
+  text-align: justify;
+  padding: 30px 0;
+}
+
+.gt-container h3 {
+  color: #FF3030;
+  padding: 24px 0 12px 0;
+  font-size: 16px;
+  line-height: 16px;
+}
+
+.gt-container p {
+  font-size: 14px;
+  line-height: 20px;
+}

@@ -1,0 +1,29 @@
+.login-container {
+  height: 650px;
+  width: 550px;
+}
+
+.login input {
+  margin: 8px 0;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  outline: none;
+  width: 470px;
+}
+
+#btn-login {
+  width: 470px;
+}
+
+.login-internet a:hover, a:focus {
+  color: white;
+  text-decoration: none;
+}
+
+#info {
+  font-size: 20px;
+  margin: 120px;
+  text-align: center;
+  display: none;
+}

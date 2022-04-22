@@ -1,0 +1,45 @@
+.sub-footer {
+  background-color: #DCDCDC;
+  display: flex;
+  margin: 40px auto;
+  margin-bottom: 0;
+  padding-bottom: 20px;
+}
+
+.sub-footer-container {
+  display: block;
+}
+
+.sub-footer-title {
+  font-size: 14px;
+}
+
+.sub-footer-item {
+  margin-top: 10px;
+  list-style: none;
+}
+
+.sub-footer-item a {
+  color: #000;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.sub-footer-item a:hover,
+.sub-footer-icon a:hover {
+  color: #FF3030;
+}
+
+.sub-footer-container:last-child {
+  margin: auto;
+}
+
+.sub-footer-icon h4 {
+  margin-bottom: 16px;
+}
+
+.sub-footer-icon a {
+  color: #000;
+  font-size: 22px;
+  margin: 16px 8px;
+}

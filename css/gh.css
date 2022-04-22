@@ -1,0 +1,15 @@
+.content-gh {
+  margin-bottom: 100px;
+}
+.content-gh img {
+  width: 300px;
+  display: flex;
+  align-items: center; 
+}
+
+.content-gh p {
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 20px;
+}
